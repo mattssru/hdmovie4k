@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Bebas';
+  src: url('BebasNeue.eot');
+  src: url('BebasNeue.eot?#iefix') format('embedded-opentype'),
+      url('BebasNeue.woff2') format('woff2'),
+      url('BebasNeue.woff') format('woff'),
+      url('BebasNeue.ttf') format('truetype'),
+      url('BebasNeue.svg#BebasNeue') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Sukhumvit-Text';
+  src: url('SukhumvitSet-Text.eot');
+  src: url('SukhumvitSet-Text.eot?#iefix') format('embedded-opentype'),
+      url('SukhumvitSet-Text.ttf') format('truetype'),
+      url('SukhumvitSet-Text.svg#SukhumvitSet-Text') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Sukhumvit-Medium';
+  src: url('SukhumvitSet-Medium.eot');
+  src: url('SukhumvitSet-Medium.eot?#iefix') format('embedded-opentype'),
+      url('SukhumvitSet-Medium.ttf') format('truetype'),
+      url('SukhumvitSet-Medium.svg#SukhumvitSet-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Sukhumvit-SemiBold';
+  src: url('SukhumvitSet-SemiBold.eot');
+  src: url('SukhumvitSet-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('SukhumvitSet-SemiBold.ttf') format('truetype'),
+      url('SukhumvitSet-SemiBold.svg#SukhumvitSet-SemiBold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Sukhumvit-Bold';
+  src: url('SukhumvitSet-Bold.eot');
+  src: url('SukhumvitSet-Bold.eot?#iefix') format('embedded-opentype'),
+      url('SukhumvitSet-Bold.ttf') format('truetype'),
+      url('SukhumvitSet-Bold.svg#SukhumvitSet-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: block;
+}
+
+

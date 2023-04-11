@@ -1,1 +1,2 @@
-# hdmovie4k
+# jsmartcard
+Digital business card for modern business people.
