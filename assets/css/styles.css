@@ -480,7 +480,7 @@ img{
 }
 .top__banner{
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 40% 60%;
   gap: 10px;
   padding: 10px;
   background-color: var(--secondary-color);
@@ -488,6 +488,7 @@ img{
 .img__banner img{
   width: 100%;
   height: 100%;
+  object-fit: contain;
 }
 
 /*========== Layout Movie ==========*/
@@ -646,6 +647,9 @@ img{
 }
 
 /*========== Type Moive ==========*/
+.list__type__movie{
+  margin-bottom: 20px;
+}
 .list__type__movie .item__type__movie:first-child{
   border-top-left-radius: 7px;
   border-top-right-radius: 7px;
@@ -671,6 +675,7 @@ img{
 .item__type__movie.active{
   border: 1px solid var(--first-color);
   border-radius: 7px;
+  box-shadow: 0px 2px 14px #ddce7e
 }
 
 /*========== Footer ==========*/
